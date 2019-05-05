@@ -4,9 +4,8 @@ A Qt based app for MacOS and Android that connect HC-06 Bluetooth module to 2-ch
 ## Prototype Layout
 If you want to run sketch in this repository, you can connect components like this.
 
-<p align="center">
-  <img src="https://github.com/GiuseppeLG/HC-06-Relay-App/blob/master/prototypes_layout.PNG" height="400" title="hover text">
-</p>
+![prototypes_layout](https://user-images.githubusercontent.com/14968550/57195455-0e09c200-6f53-11e9-98e2-ed537e94bbd2.PNG)
+
 
 ## Config
 There is not much you can configure. A minimal setup looks like the following:
@@ -35,9 +34,7 @@ Then, i have spent little time on the aesthetics of the Android app, so mobile g
 
 ## App Layout
 
-<p align="left">
-<img src="https://github.com/GiuseppeLG/HC-06-Relay-App/blob/master/app_layout.JPG" height="400" title="hover text">
-</p>
+![app_layout](https://user-images.githubusercontent.com/14968550/57195451-ffbba600-6f52-11e9-9cd4-e2f05b4ae07b.JPG)
 
 When bluetooth HC-06 find, its mac address is shown. You have to double click on the corrispondet row and it connects automatically.
 Then, you have to send ON or OFF command simply press button. 
